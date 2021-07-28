@@ -1,7 +1,13 @@
 # Oii! Eu sou o Rafael kwiek
 Hoje estudar estrutura com front-end
-Estudando html, css e js.
+ html, css e js.
 😉
+👋
+🦻🏻
+🧏🏻‍♂️
+👨🏻‍💻
+📱
+🖥️
 
  <div>
   <a href="https://github.com/Rafaelkwiek">
