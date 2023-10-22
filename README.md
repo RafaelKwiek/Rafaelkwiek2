@@ -1,7 +1,6 @@
 # Oii! Eu sou o Rafael kwiek
-Hoje estudar estrutura com front-end
+Sou Formando análise e desenvolvimento de sistemas, também formando pos graduação desenvolvimento web
  html, css e js.
-😉
 👋
 🦻🏻
 🧏🏻‍♂️
