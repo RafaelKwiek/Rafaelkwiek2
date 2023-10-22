@@ -1,6 +1,5 @@
 # Oii! Eu sou o Rafael kwiek
-Sou Formando análise e desenvolvimento de sistemas, também formando pos graduação desenvolvimento web
- html, css e js.
+Sou Formando análise e desenvolvimento de sistemas, também formando pos graduação desenvolvimento web Full Stack
 👋
 🦻🏻
 🧏🏻‍♂️
